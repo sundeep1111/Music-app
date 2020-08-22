@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Music-app/static/css/main.1e604a62.chunk.css",
-    "main.js": "/Music-app/static/js/main.20ea30c3.chunk.js",
-    "main.js.map": "/Music-app/static/js/main.20ea30c3.chunk.js.map",
-    "runtime-main.js": "/Music-app/static/js/runtime-main.3df7aa57.js",
-    "runtime-main.js.map": "/Music-app/static/js/runtime-main.3df7aa57.js.map",
-    "static/css/2.1ef6bd50.chunk.css": "/Music-app/static/css/2.1ef6bd50.chunk.css",
-    "static/js/2.71ec28d8.chunk.js": "/Music-app/static/js/2.71ec28d8.chunk.js",
-    "static/js/2.71ec28d8.chunk.js.map": "/Music-app/static/js/2.71ec28d8.chunk.js.map",
-    "index.html": "/Music-app/index.html",
-    "precache-manifest.94ce50a371c9196a6efcff17dac90c96.js": "/Music-app/precache-manifest.94ce50a371c9196a6efcff17dac90c96.js",
-    "service-worker.js": "/Music-app/service-worker.js",
-    "static/css/2.1ef6bd50.chunk.css.map": "/Music-app/static/css/2.1ef6bd50.chunk.css.map",
-    "static/css/main.1e604a62.chunk.css.map": "/Music-app/static/css/main.1e604a62.chunk.css.map",
-    "static/js/2.71ec28d8.chunk.js.LICENSE.txt": "/Music-app/static/js/2.71ec28d8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Music-app/static/media/logo.5d5d9eef.svg",
-    "static/media/styles.css": "/Music-app/static/media/revicons.2feb69cc.eot"
+    "main.css": "/static/css/main.1e604a62.chunk.css",
+    "main.js": "/static/js/main.b59c8557.chunk.js",
+    "main.js.map": "/static/js/main.b59c8557.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7890b6b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7890b6b5.js.map",
+    "static/css/2.99dcded4.chunk.css": "/static/css/2.99dcded4.chunk.css",
+    "static/js/2.71ec28d8.chunk.js": "/static/js/2.71ec28d8.chunk.js",
+    "static/js/2.71ec28d8.chunk.js.map": "/static/js/2.71ec28d8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ca61eef74aff66ff7ddc3fddcbe3bad.js": "/precache-manifest.3ca61eef74aff66ff7ddc3fddcbe3bad.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.99dcded4.chunk.css.map": "/static/css/2.99dcded4.chunk.css.map",
+    "static/css/main.1e604a62.chunk.css.map": "/static/css/main.1e604a62.chunk.css.map",
+    "static/js/2.71ec28d8.chunk.js.LICENSE.txt": "/static/js/2.71ec28d8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.3df7aa57.js",
-    "static/css/2.1ef6bd50.chunk.css",
+    "static/js/runtime-main.7890b6b5.js",
+    "static/css/2.99dcded4.chunk.css",
     "static/js/2.71ec28d8.chunk.js",
     "static/css/main.1e604a62.chunk.css",
-    "static/js/main.20ea30c3.chunk.js"
+    "static/js/main.b59c8557.chunk.js"
   ]
 }
